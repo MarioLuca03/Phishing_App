@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Phishing Detector</string>
+
+    <string name="scan_manual">Scanare manuală</string>
+    <string name="scan_automatic">Scanare automată a email-urilor</string>
+    <string name="paste_email_here">Lipește aici email-ul sau link-ul</string>
+
+    <string name="scan_now">Scanează acum</string>
+    <string name="risk_score">Scor de risc</string>
+    <string name="risk_low">Risc scăzut</string>
+    <string name="risk_medium">Risc mediu</string>
+    <string name="risk_high">Risc ridicat</string>
+    <string name="details">Detalii analiză</string>
+
+    <string name="phishing_detected">Phishing detectat!</string>
+    <string name="this_email_looks_suspicious">Acest email pare suspect.</string>
+    <string name="auto_scan_alert">Email suspect detectat automat</string>
+
+    <string name="notification_title">Phishing Detector</string>
+    <string name="notification_suspicious_email">Email suspect detectat (risc %1$d%%)</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Anulează</string>
+
+    <string name="accessibility_service_description">Permite aplicației să monitorizeze clipboard-ul pentru a detecta automat linkuri copiate și să te avertizeze despre posibile atacuri de phishing. Acest serviciu funcționează în background și respectă confidențialitatea ta - nu stochează sau transmite date.</string>
+    <string name="enable_accessibility_service">Activează monitorizare clipboard</string>
+    <string name="accessibility_service_enabled">Monitorizare activă</string>
+    <string name="accessibility_service_disabled">Monitorizare neactivă</string>
+
+</resources>
